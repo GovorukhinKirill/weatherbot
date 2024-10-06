@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "axios": "^1.7.7",
+    "fetch": "^1.1.0",
+    "node": "^22.9.0",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
